@@ -3,11 +3,7 @@
 - I have a master's degree in South European Studies from the University of Glasgow and a BA degree in Political Science from UNAN-Managua.
 - I have a personal interest in data analysis and data engineering. 
 
-## 🧠 Projects
+## Projects
 
-
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-3670A0?style=for-the-badge&logo=LinkedIn&logoColor=white)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/izcanogomez/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/izcanogomez/)
+## Social Media
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izcanogomez/)
