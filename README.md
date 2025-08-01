@@ -10,4 +10,4 @@
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-3670A0?style=for-the-badge&logo=LinkedIn&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/izcanogomez/)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)(https://www.linkedin.com/in/izcanogomez/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/izcanogomez/)
