@@ -21,3 +21,5 @@
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izcanogomez/)
+
+[<img src="https://img.icons8.com/color/20/ffffff/linkedin--v1.png" alt="LinkedIn logo" /> LinkedIn](https://www.linkedin.com/in/izcanogomez)
