@@ -11,7 +11,7 @@
 
 ## Tool Stack
 ![Python](https://img.shields.io/badge/Python-306998?logo=python&logoColor=FFD43B)
-![R](https://img.shields.io/badge/R-2596be?logo=r&logoColor=bcbec1)
+![R](https://img.shields.io/badge/R-bcbec1?logo=r&logoColor=2596be)
 ![SQL](https://img.shields.io/badge/SQL-e06c1a?logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-008000?logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-1d4679?logo=tableau&logoColor=white)
