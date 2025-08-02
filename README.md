@@ -23,3 +23,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izcanogomez/)
 
 [<img src="https://img.icons8.com/color/20/ffffff/linkedin--v1.png" alt="LinkedIn logo" /> LinkedIn](https://www.linkedin.com/in/izcanogomez)
+
+<a href="https://www.linkedin.com/in/izcanogomez" style="text-decoration: none;">
+  <span style="display: inline-flex; align-items: center; background-color: #0077B5; color: white; padding: 6px 12px; font-family: sans-serif; font-size: 14px; border-radius: 4px;">
+    <img src="https://img.icons8.com/color/20/ffffff/linkedin--v1.png" alt="LinkedIn logo" style="margin-right: 8px;" />
+    LinkedIn
+  </span>
+</a>
+
