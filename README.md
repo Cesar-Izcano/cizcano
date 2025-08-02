@@ -11,3 +11,6 @@
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cesarizcano)
 [<img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" alt="LinkedIn" height="30"/>](https://www.linkedin.com/in/izcanogomez)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cesarizcano)
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/izcanogomez)
+
