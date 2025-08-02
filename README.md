@@ -7,5 +7,5 @@
 
 ## Social Media
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izcanogomez/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=[https://your-domain](https://icons8.com/icon/13930/linkedin)/path/linkedin.svg&logoColor=white)](https://www.linkedin.com/in/izcanogomez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=(https://icons8.com/icon/13930/linkedin)/path/linkedin.svg&logoColor=white)](https://www.linkedin.com/in/izcanogomez)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cesarizcano)
