@@ -14,3 +14,9 @@
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/izcanogomez)
 
+<a href="https://www.linkedin.com/in/izcanogomez" style="text-decoration: none;">
+  <img src="https://img.icons8.com/color/28/ffffff/linkedin--v1.png" alt="LinkedIn logo" style="vertical-align: middle;"/>
+  <span style="display: inline-block; background-color: #0077B5; color: white; padding: 6px 12px; font-family: sans-serif; font-size: 14px; border-radius: 4px; vertical-align: middle;">
+    LinkedIn
+  </span>
+</a>
