@@ -14,4 +14,4 @@
 ![R](https://img.shields.io/badge/R-2596be?logo=r&logoColor=bcbec1)
 ![SQL](https://img.shields.io/badge/SQL-e06c1a?logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-008000?logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-white?logo=tableau&logoColor=1d4679)
+![Tableau](https://img.shields.io/badge/Tableau-1d4679?logo=tableau&logoColor=white)
