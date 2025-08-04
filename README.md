@@ -8,6 +8,7 @@
 ## Social Media
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izcanogomez/)
 [![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@cesarizcano)
+[![Website](https://img.shields.io/badge/Website-1338be?logo=medium&logoColor=white)](https://cesarizcano.mystrikingly.com/)
 
 ## Tool Stack
 ![Python](https://img.shields.io/badge/Python-306998?logo=python&logoColor=FFD43B)
