@@ -1,7 +1,7 @@
 ## About me
 - Hey! This is Cesar. I'm currently working at [Simply (formerly JoyTunes)](https://www.hellosimply.com/) as a customer service representative. I held previous positions in the same industry at Sitel Group (now known as Foundever®). 
 - I have a master's degree in South European Studies from the University of Glasgow and a BA degree in Political Science from UNAN-Managua.
-- I have a personal interest in data analysis and data engineering. 
+- I'm currently developing skills in data analysis and data engineering.
 
 ## Projects
 
@@ -17,3 +17,10 @@
 ![SQL](https://img.shields.io/badge/SQL-e06c1a?logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-008000?logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-1d4679?logo=tableau&logoColor=white)
+
+## TEST
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
