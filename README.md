@@ -10,7 +10,7 @@
 [![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@cesarizcano)
 [![Website](https://img.shields.io/badge/Website-1338be?logo=Wordpress&logoColor=white)](https://cesarizcano.mystrikingly.com/)
 [![UpWork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b672a6f9d08a6218)
-[![Google-Site](https://img.shields.io/badge/Google-4758b5?logo=google&logoColor=white)](https://sites.google.com/view/cesar-izcanos-portfolio/home)
+[![GoogleSite](https://img.shields.io/badge/Google-4758b5?logo=google&logoColor=white)](https://sites.google.com/view/cesar-izcanos-portfolio/home)
 
 ## Tool Stack
 ![Python](https://img.shields.io/badge/Python-306998?logo=python&logoColor=FFD43B)
