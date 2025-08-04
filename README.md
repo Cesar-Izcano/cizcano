@@ -8,7 +8,8 @@
 ## Social Media
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izcanogomez/)
 [![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@cesarizcano)
-[![Website](https://img.shields.io/badge/Website-1338be?logo=medium&logoColor=white)](https://cesarizcano.mystrikingly.com/)
+[![Website](https://img.shields.io/badge/Website-1338be?logo=wesbite&logoColor=white)](https://cesarizcano.mystrikingly.com/)
+[![UpWork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b672a6f9d08a6218)
 
 ## Tool Stack
 ![Python](https://img.shields.io/badge/Python-306998?logo=python&logoColor=FFD43B)
